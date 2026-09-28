@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Build products and Xcode user state
+build/
+DerivedData/
+.build/
+*.xcresult
+*.xcarchive
+*.dSYM/
+*.ipa
+*.app/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Local validation reports and screenshots
+validation/
+*.log
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.codex/
+*.pem
+*.p12
+*.pfx
+*.mobileprovision
+*.provisionprofile
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
