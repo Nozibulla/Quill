@@ -6,6 +6,10 @@ Quill is a native macOS menu bar app that corrects selected text directly in the
 
 Built with SwiftUI and AppKit. No third-party package dependencies.
 
+## Download the beta
+
+[Download Quill 1.0.0 Beta 1](https://github.com/Nozibulla/Quill/releases/tag/v1.0.0-beta.1) and follow the [setup guide](docs/BETA-SETUP.md). This build is not notarized and requires a separately installed compatible Codex runtime.
+
 ## Features
 
 - Correct text in place without opening a separate editor.
